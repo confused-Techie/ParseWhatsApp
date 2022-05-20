@@ -1,0 +1,10 @@
+{
+  "name": "ParseWhatsApp",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "parse": "node readFile.js"
+  },
+  "author": "confused-Techie",
+  "license": "AGPL-3.0"
+}

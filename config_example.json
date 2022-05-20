@@ -1,0 +1,25 @@
+{
+  "input": "file/path.txt",
+  "output": "file/path_out.txt",
+  "summary_output": "file/path_out_summary.txt",
+  "users": [
+    {
+      "name": "Sender 1",
+      "reference": "sender_1"
+    },
+    {
+      "name": "Sender 2 :)",
+      "reference": "sender_2"
+    }
+  ],
+  "specials": [
+    {
+      "title": "hello",
+      "match": "hello|hi"
+    },
+    {
+      "title": "shark",
+      "match": "shark|bait|who|haha"
+    }
+  ]
+}

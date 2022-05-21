@@ -28,10 +28,6 @@ var days = [
     db.senders[configData.users[i].reference] = {
       total: 0,
       picturesSent: 0,
-      //loves: 0,
-      //miss: 0,
-      //call: 0,
-      //baby: 0,
     };
     for (var y = 0; y < configData.specials.length; y++) {
       db.senders[configData.users[i].reference][configData.specials[y].title] = 0;
@@ -49,7 +45,6 @@ var days = [
 
   for await (const line of rl) {
     // here is a single line available
-    //console.log(`Line: ${line}`);
     parseLine(line);
   }
 

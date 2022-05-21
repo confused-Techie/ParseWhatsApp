@@ -49,7 +49,7 @@ Then you need to create your config file.
 
 ### Configuration
 
-The configuration file is necessary for ParseWhatsApp to function. There is an example configuration file in this repo titled (config_example.json)[https://github.com/confused-Techie/ParseWhatsApp/blob/main/config_example.json].
+The configuration file is necessary for ParseWhatsApp to function. There is an example configuration file in this repo titled [config_example.json](https://github.com/confused-Techie/ParseWhatsApp/blob/main/config_example.json).
 
 Further details are available below.
 
@@ -71,7 +71,7 @@ The Full Output will contain your entire conversation as JSON for easy consumpti
 
 ## Configuration Options
 
-Refer to (config_example.json)[https://github.com/confused-Techie/ParseWhatsApp/blob/main/config_example.json] for any clarification needed.
+Refer to [config_example.json](https://github.com/confused-Techie/ParseWhatsApp/blob/main/config_example.json) for any clarification needed.
 
 | Option | Value | Note |
 | --- | --- | --- |

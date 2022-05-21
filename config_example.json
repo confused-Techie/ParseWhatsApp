@@ -1,7 +1,7 @@
 {
   "input": "file/path.txt",
-  "output": "file/path_out.txt",
-  "summary_output": "file/path_out_summary.txt",
+  "output": "file/path_out.json",
+  "summary_output": "file/path_out_summary.json",
   "users": [
     {
       "name": "Sender 1",
